@@ -19,7 +19,7 @@ Here is the example mockup provided for the project:
 
 Here is the result of my implementation:
 
-
+![My Result](my-little-lemon-result.png)
 
 ## Technologies Used
 
